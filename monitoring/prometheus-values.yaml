@@ -1,0 +1,7 @@
+prometheus:
+  prometheusSpec:
+    retention: 7d
+grafana:
+  enabled: true
+alertmanager:
+  enabled: true
